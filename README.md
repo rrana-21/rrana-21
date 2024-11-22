@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there! Turning data into slam dunks and hole-in-ones!</h1>
+<h1 align="center">Hi there! I'm Rutvij! Welcome to my repository, where you'll discover all the exciting and interesting data I've uncovered.!</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Experienced data science professional adept at leveraging advanced analytics, predictive modeling, and business intelligence to drive strategic initiatives and foster partnerships. Proven track record in synthesizing complex data to inform decision-making and spur organizational growth. Graduate student from Georgia Tech with an MSc in Analytics, with a passion for sports analytics, particularly in the NBA and golf.</p>
+<p align="left">Rutvij is an experienced data science professional adept at leveraging advanced analytics, predictive modeling, and business intelligence to drive strategic initiatives and foster partnerships. Proven track record in synthesizing complex data to inform decision-making and spur organizational growth. Graduate student from Georgia Tech with an MSc in Analytics, with experience in government and healthcare sectors, and a passion for sports analytics.</p>
 
 ###
 
