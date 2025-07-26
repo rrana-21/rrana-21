@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi there! I'm Rutvij! Welcome to my repository, where you'll discover all the exciting and interesting data I've uncovered.!</h1>
+<h1 align="center">Hi there! I'm Rutvij! Welcome to my repository, where you'll discover all the exciting and interesting data I've uncovered!</h1>
 
 ###
 
