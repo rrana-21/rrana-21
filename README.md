@@ -1,27 +1,3 @@
-<div align="center">
-  <img height="150" src="https://assets-global.website-files.com/63edab7bea877733cb4c37f1/63edad9c784711da578b7878_IMG_9178-p-500.jpeg"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rutvijrana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rrana-21.rrana-21&"  />
-</div>
-
-###
-
-<h1 align="center">Hi there! I'm Rutvij! Welcome to my repository, where you'll discover all the exciting and interesting data I've uncovered!</h1>
-
-###
-
 <h3 align="left">About Me</h3>
 
 ###
